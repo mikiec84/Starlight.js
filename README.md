@@ -1,4 +1,4 @@
-#Starlight.js
+#Starlight.jsyy
 ######A twinkling visual effect javascript library [View Demo](http://sergei1152.github.io/Starlight.js/)
 
 A highly configurable javascript library for creating "twinkling star" effects. You can easily customize
